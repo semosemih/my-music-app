@@ -1,0 +1,72 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "John",
+      "surname": "Smith",
+      "albums": [
+        {
+          "id": "1",
+          "name": "Nature",
+          "genre": "New Age",
+          "releaseDate": "24.05.2024",
+          "songs": [
+            {
+              "id": "1",
+              "name": "Trees",
+              "duration": 180000
+            },
+            {
+              "id": "2",
+              "name": "Clouds",
+              "duration": 150000
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Space",
+          "genre": "Electronic",
+          "releaseDate": "24.05.2024",
+          "songs": [
+            {
+              "id": "3",
+              "name": "Milky Way",
+              "duration": 165000
+            },
+            {
+              "id": "4",
+              "name": "Comet",
+              "duration": 120000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lisa",
+      "surname": "Brown",
+      "albums": [
+        {
+          "id": "3",
+          "name": "Emotions",
+          "genre": "Classical",
+          "releaseDate": "14.11.2008",
+          "songs": [
+            {
+              "id": "5",
+              "name": "Sorrow",
+              "duration": 210000
+            },
+            {
+              "id": "6",
+              "name": "Joy",
+              "duration": 145000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
